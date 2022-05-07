@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\bin\Debug\Geometrik_Hesaplama_Console.exe.config
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\bin\Debug\Geometrik_Hesaplama_Console.exe
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\bin\Debug\Geometrik_Hesaplama_Console.pdb
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\obj\Debug\Geometrik_Hesaplama_Console.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\obj\Debug\Geometrik_Hesaplama_Console.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\obj\Debug\Geometrik_Hesaplama_Console.exe
+C:\Users\HP DX\source\repos\Geometrik_Hesaplama_Console\Geometrik_Hesaplama_Console\obj\Debug\Geometrik_Hesaplama_Console.pdb
